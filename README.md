@@ -175,3 +175,4 @@ Update the path in `APP_PATHS` in config.py for your system
 
 *MusQuira — Powered by OpenAI GPT & Python*
 I am learning Git and GitHub.
+This change is made on my practice branch.
